@@ -45,7 +45,7 @@ navbar-links:
 ################################
 
 collections:
-  literature_reviews:
+  literature-reviews:
     output: true
     permalink: /literature-reviews/:path/
   daily-updates:
