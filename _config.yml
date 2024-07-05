@@ -22,6 +22,8 @@ author: Suzanna Thompson
 navbar-links:
   About Me: "aboutme"
   Author's home: "https://netflix.com/gilmoregirls"
+  Literature Reviews: "literature-reviews"
+  Daily Updates: "daily-updates"
 
 ################
 # --- Logo --- #
@@ -37,6 +39,18 @@ navbar-links:
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
+
+################################
+# --- Collections --- #
+################################
+
+collections:
+  literature_reviews:
+    output: true
+    permalink: /literature-reviews/:path/
+  daily-updates:
+    output: true
+    permalink: /daily-updates/:path/
 
 
 #####################################
