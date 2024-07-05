@@ -5,4 +5,4 @@ date: 2024-07-05
 categories: daily-updates
 ---
 
-Content of Literature Review 1.
+Content of daily update 1.
