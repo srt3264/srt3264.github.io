@@ -48,7 +48,7 @@ collections:
   literature_reviews:
     output: true
     permalink: /literature-reviews/:path/
-  daily-updates:
+  daily_updates:
     output: true
     permalink: /daily-updates/:path/
 
