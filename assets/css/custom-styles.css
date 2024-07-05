@@ -9,3 +9,12 @@ h1, h2, h3, h4, h5, h6 {
 h1.site-title {
     font-size: 0.8em; /* Adjust the size as needed */
   }
+
+.post-list {
+list-style-type: none;
+padding: 0;
+}
+
+.post-list li {
+margin: 10px 0;
+}
