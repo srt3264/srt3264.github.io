@@ -24,18 +24,24 @@ Step 2:
 $$ \mathcal{F} = X \rightarrow \hat{Y} $$
 
 - Send the same high resolution images to the forward model. This creates the prediction matrix $\hat{y}$. 
+- Calculate the poisson loss between the ground truth and the prediction.
+- Use that to update the forwrd model along with the regularization terms 
 
+$$ \theta^* = argmin_{\theta}[L(\hat{\mathcal{F}}(X), \mathcal{F}, R]) $$
+
+where $\theta^*$ is the optimized parameters of $\hat{\mathcal{F}}$, $l$ is the loss function, and $R$ is the regularization term. 
+
+- Then conduct hyperparameter tuning with random search. 
+- Fix weights for the forward model. 
+
+Step 3: 
+- Prepend another CNN, the actor network A: $X \rightarrow X_{down}$ where $ X \in \mathbb{R}^{32x32}$, which learns to downsample images.
+- Repeat steps from step 2 for training
+- As the actor model A is trained, it learns to distill pertinent features to down sample images while generating a neuronal response similar to high resolution images. 
 
 **Architecture specifications:**
 - **Data:** Description of the dataset(s) used in the study.
 - **Techniques:** Overview of the methodologies and techniques applied.
 - **Architecture:** Details on any specific models or architectures used.
 
-**Results:**
-- Summary of the main findings and results.
-- Any significant metrics or outcomes.
 
-**Discussion:**
-- Key insights and interpretations of the results.
-- Comparisons to other works in the field.
-- Implications of the findings.
