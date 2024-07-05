@@ -18,3 +18,14 @@ padding: 0;
 .post-list li {
 margin: 10px 0;
 }
+
+.icon {
+    font-size: 2em; /* Adjust the size as needed */
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  .icon img {
+    width: 2em; /* Adjust the size as needed */
+    height: auto; /* Maintain the aspect ratio */
+  }
