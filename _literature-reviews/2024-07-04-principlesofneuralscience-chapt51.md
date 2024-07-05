@@ -61,6 +61,6 @@ REM:
 
 We say that going back and forth between the stages is called damped oscilation (pictured below) 
 
-![Damped oscillation](/workspaces/srt3264.github.io/assets/img/damped-oscilliation.png)
+![Damped oscillation]({{ '/assets/img/damped-oscilliation.png' | relative_url }})
 
 REM sleep takes up about 25% of the total sleep time. 
