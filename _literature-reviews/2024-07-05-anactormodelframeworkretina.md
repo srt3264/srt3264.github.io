@@ -21,7 +21,9 @@ Step 1:
 Step 2: 
 - train a CNN to act as a digital twin of the retina, this is called a forward model: 
 
-$$\mathcal{F} = X \rightarrow \hat{Y}$$
+$$ \mathcal{F} = X \rightarrow \hat{Y} $$
+
+- Send the same high resolution images to the forward model. This creates the prediction matrix $\hat{y}$. 
 
 
 **Architecture specifications:**
