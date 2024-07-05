@@ -1,6 +1,6 @@
 ---
 layout: collection
 title: "Daily Updates"
-collection: daily_updates
+collection: daily-updates
 permalink: /daily-updates/
 ---
