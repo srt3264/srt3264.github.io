@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Daily update 1"
+date: 2024-07-05
+categories: daily-updates
+---
+
+Content of Literature Review 1.
