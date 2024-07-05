@@ -5,8 +5,6 @@ date: 2024-07-04
 categories: literature-reviews
 ---
 
-# Chapter 51: Sleep & Dreaming
-
 Smith, J., & Doe, A. (2003). Sleep & dreaming. In Kandel, E. R., Schwartz, J. H., & Jessell, T. M. (Eds.), *Principles of neural science* (4th ed., pp. 1001-1021). McGraw-Hill.
 
 ## Key Points

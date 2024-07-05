@@ -33,9 +33,9 @@ margin: 10px 0;
 
   /* Change the color of links */
 a {
-    color: #00044d; /* Change this color code to your preferred color */
+    color: #000000; /* Change this color code to your preferred color */
 }
 
 a:hover {
-    color: #00044d; /* Change this color code to your preferred hover color */
+    color: #000000; /* Change this color code to your preferred hover color */
 }
