@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# About Me
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Hello! I'm Suzanna Thompson, a data scientist passionate about machine learning, meta-learning, continuous learning (+ optional active learning), interpretable models, and neuro-inspired learning. I graduated with a master's in data science from Duke University and currently work as a data analyst at a fintech company.
 
-What else do you need?
+In my spare time, I enjoy hiking, traveling, and working on passion projects. This website is a collection of my research, projects, and daily updates.
 
-### My story
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/suzanna-thompson/) or follow my work on [GitHub](https://github.com/srt3264).
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+## Contact
+You can reach me at [suzannathompson59@gmail.com](mailto:suzannathompson59@gmail.com).
